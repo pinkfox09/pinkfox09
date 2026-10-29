@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**pinkfox09/pinkfox09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sohna Shook, LPC, PhD
 
-Here are some ideas to get you started:
+Hello! I am a licensed professional counselor with a background in educational psychology, higher education, behavioral health, and research evaluation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+- Research and program evaluation
+- Behavioral health and mental health outcomes
+- Evidence-based interventions
+- Educational research and student outcomes
+- Data-informed decision-making
+
+## - Quantitative research and Statistical Analysis
+- Research design and evaluation
+- Outcomes measurement and interpretation
+- Evidence-based program evaluation
+- Data-informed decision-making
+  
+## Technical Skills
+- Python
+- R
+- Data analysis and visualization
+- Microsoft Excel
+
+## Projects
+- Research and data analysis projects using publicly available datasets
+- Applied projects connecting behavioral health, education, and program outcomes
+
+## Professional Background
+My experience includes graduate education, curriculum development, student mentoring, clinical counseling, behavioral intervention, and federal grant review.
