@@ -16,17 +16,13 @@ I'm particularly interested in the intersection of behavioral health, education,
 - Behavioral Health: Mental health, clinical practice, intervention science, and evidence-based approaches.
 - Human-Centered Design: UX/UI design, user research, prototyping, and accessible digital experiences.
 - Data & Technology: Using analytical tools and technology to explore questions, communicate findings, and support decision-making.
-  
 
 ## Selected Projects
 Bloom Psychotherapy & Wellness
-
 An independent UX/UI design project exploring how thoughtful design can create a welcoming, accessible digital experience for a psychotherapy and wellness practice.
-
-Explore the Figma prototype
+[Figma Prototype](https://www.figma.com/proto/NJNi2Zp3SbVcWhB7FfjUf8/Bloom-Wellness?node-id=5588-6867&starting-point-node-id=5588%3A6779)
 
 Quantitative Research & Data Analysis
-
 Applied research projects exploring questions related to behavioral health, education, and human services, using quantitative methods and publicly available data.
   
 ## Tools & Technical Skills
@@ -34,13 +30,6 @@ Applied research projects exploring questions related to behavioral health, educ
 - Design: Figma, UX/UI design, prototyping
 - Education: Canvas LMS, instructional design, curriculum development
 - Research Methods: Quantitative and qualitative research, program evaluation, statistical analysis
-
-## Projects
-- Bloom Psychotherapy & Wellness
-An independent UX/UI design project exploring how thoughtful design can create a welcoming, accessible digital experience for a psychotherapy and wellness practice.
-
-- Quantitative Research & Data Analysis
-Applied research projects exploring questions related to behavioral health, education, and human services, using quantitative methods and publicly available data.
 
 ## Professional Background
 - PhD in Educational Psychology
