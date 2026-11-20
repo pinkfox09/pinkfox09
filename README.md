@@ -36,8 +36,11 @@ Applied research projects exploring questions related to behavioral health, educ
 - Research Methods: Quantitative and qualitative research, program evaluation, statistical analysis
 
 ## Projects
-- Research and data analysis projects using publicly available datasets
-- Applied projects connecting behavioral health, education, and program outcomes
+- Bloom Psychotherapy & Wellness
+An independent UX/UI design project exploring how thoughtful design can create a welcoming, accessible digital experience for a psychotherapy and wellness practice.
+
+- Quantitative Research & Data Analysis
+Applied research projects exploring questions related to behavioral health, education, and human services, using quantitative methods and publicly available data.
 
 ## Professional Background
 - PhD in Educational Psychology
