@@ -49,4 +49,6 @@ Applied research projects exploring questions related to behavioral health, educ
 I enjoy working across disciplines, asking meaningful questions, and finding ways to make complex information more useful and accessible. I'm especially interested in work that connects research, human behavior, education, and technology to improve real-world experiences and outcomes.
 
 ## Connect
-[Connect with me on LinkedIn](https://www.linkedin.com/in/sohnashook/) | GitHub
+[LinkedIn](https://www.linkedin.com/in/sohnashook/)|
+[GitHub Projects](https://github.com/pinkfox09/human-services-quantitative-research)|
+[Figma Prototype](https://www.figma.com/proto/NJNi2Zp3SbVcWhB7FfjUf8/Bloom-Wellness?node-id=5588-6867&starting-point-node-id=5588%3A6779)
